@@ -1,27 +1,24 @@
-# Nome do projeto
+# Flow Time
 
-`CURSO: Análise e Desenvolvimento de Sistemas`
+`CURSO: Sistemas de Informação`
 
 `DISCIPLINA: Trabalho Interdisciplinar Aplicações Web Front-End`
 
-`Xº semestre/ANO`
+`1º semestre/2026`
 
 Escreva um ou dois parágrafos resumindo o objetivo do seu projeto.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+* Jonathan Cidierdes Caitano Lima
+* Gustavo Victor de Paula
+* Camila Fernanda Evangelista
+* Gabriel Vinicius Soares Russo
+* Pedro Henrique Silva Matta
 
-## Professor
+## Professora
 
-* Nome completo do(a) professor(a)
-
-## Instruções de utilização
+* Luciana Mara Freitas Diniz
 
 Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
 
