@@ -1,25 +1,25 @@
-# Nome do projeto
+# Planeja+
 
-`CURSO: Análise e Desenvolvimento de Sistemas`
+`CURSO: Sistemas de Informação`
 
 `DISCIPLINA: Trabalho Interdisciplinar Aplicações Web Front-End`
 
-`Xº semestre/ANO`
+`1º semestre/2026`
 
-Escreva um ou dois parágrafos resumindo o objetivo do seu projeto.
+Este projeto tem como objetivo desenvolver um software de controle de gastos pessoais, permitindo que os usuários registrem, organizem e acompanhem suas despesas e receitas de forma simples e intuitiva. A ideia é auxiliar no planejamento financeiro, oferecendo uma visão clara da situação econômica do usuário ao longo do tempo. Dessa forma, o usuário pode tomar decisões mais conscientes sobre seu dinheiro e manter um equilíbrio financeiro mais saudável e responsável. 
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+* Arthur Willer Faria de Souza
+* Christina Danubia de Araujo Carreiro
+* Luiza Stefany Romão da Silva
+* Maria Eduarda Rodrigues Lacerda
+* Thalles Gabriel Dias Teixeira
+* Victória Fernanda Santos Rocha
 
 ## Professor
 
-* Nome completo do(a) professor(a)
+* Luciana Mara Freitas Diniz
 
 ## Instruções de utilização
 
